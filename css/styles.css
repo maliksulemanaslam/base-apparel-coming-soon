@@ -15,6 +15,7 @@ body {
   align-items: center;
 }
 .card{
+  box-shadow: 0 1.3rem 1.5rem 0 rgb(216 226 236 / 70%);
   border-style: none;
 }
 .card-group {
